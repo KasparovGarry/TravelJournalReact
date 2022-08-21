@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    padding: 60px 0;
+    margin: 0 100px;
+    align-items: center;
+}
+
+.card-wrapper {
+    margin-top: 15px;
+}
+
+.card-wrapper:first-child {
+    margin-top: 0;
+}
+
+.card-wrapper:last-child .br {
+    display: none;
+}

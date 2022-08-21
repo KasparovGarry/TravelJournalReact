@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+
+    img {
+        margin-right: 15px;
+        width: auto;
+        height: 27px;
+    }
+
+    h2 {
+        font-weight: 400;
+    }
+}
